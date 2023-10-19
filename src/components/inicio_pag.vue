@@ -59,6 +59,7 @@
   
   .title {
   color:  rgb(255, 255, 255);
+  left: -690px; /* Ajusta la posición a la izquierda */
   text-align: right;
   position: relative;
     bottom: -200px;
@@ -87,14 +88,16 @@
   }
   
   .icon {
-    position: relative;
-    width:-600px;
-    height: -400px;
-    top: 200px;
-    right: -280px;
-    
-  
-  }
+  position: relative;
+  left: -290px; /* Ajusta la posición a la izquierda */
+  top: 200px; /* Ajusta la posición vertical */
+  width: 40px; /* Ajusta el ancho */
+  height: 40px; /* Ajusta la altura */
+  font-size: 50px; /* Tamaño de fuente (si aplicable) */
+  color: #ffa400; /* Color del ícono */
+  font-family: "Cherry Cream Soda"; /* Fuente del ícono */
+  text-align: center; /* Alineación del ícono */
+}
   
   .boton-futurista {
     font-family: "Arial", sans-serif;
