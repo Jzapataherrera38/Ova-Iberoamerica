@@ -12,16 +12,16 @@
           </v-tab>
   
           <v-tab :to="{ name: 'actividades_pag' }" class="text-decoration-none mx-auto px-1 tabs_box">
-            Actividades
+            Actividad
             <v-icon x-large class="mb-5">fas fa-list-ol</v-icon>
           </v-tab>
          
-            <v-tab :to="{ name: 'evaluacion' }" class="text-decoration-none mx-auto px-1 tabs_box">
+            <v-tab :to="{ name: 'evaluacion_pag' }" class="text-decoration-none mx-auto px-1 tabs_box">
             Evaluacion
             <v-icon x-large class="mb-5">fas fa-clipboard-check</v-icon>
           </v-tab>
   
-          <v-tab :to="{ name: 'creditos' }" class="text-decoration-none mx-auto px-1 tabs_box">
+          <v-tab :to="{ name: 'creditos_pag' }" class="text-decoration-none mx-auto px-1 tabs_box">
             Créditos
             <v-icon x-large class="mb-5">fas fa-clipboard-check</v-icon>
           </v-tab>

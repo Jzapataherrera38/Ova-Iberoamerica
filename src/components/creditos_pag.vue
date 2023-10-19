@@ -12,7 +12,7 @@
             <div class="usuario1" />
             <div class="descripcion">
               <div class="title_name">
-                <h3>Yeni Sofia Miranda Osten</h3>
+                <h3>Mayerlis Alemán Vásquez.</h3>
               </div>
               <div class="parrafo_name">
                 <p>Programadora/Diseñadora/Investigadora<br>
@@ -25,7 +25,7 @@
             <div class="usuario2" />
             <div class="descripcion">
               <div class="title_name">
-                <h3>Angie Paola Argel Ortiz</h3>
+                <h3>Darlys Aguirre Díaz.</h3>
               </div>
               <div class="parrafo_name">
                 <p>Programadora/Diseñadora/Investigadora</p>
